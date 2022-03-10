@@ -1,0 +1,2 @@
+# Snyder_et_al_2022_Native_Fish_Passage
+This code  corresponds with the publication Snyder, C.E., Oliver, D.C., Knights, B.C., Pescitelli, S.M. and Whitledge, G.W. (2022), Assessment of Native Fish Passage through Brandon Road Lock and Dam, Des Plaines River, Illinois, Using Fin Ray Microchemistry. Trans Am Fish Soc. https://doi.org/10.1002/tafs.10345. Data can be found at: https://doi.org/10.5066/P9NIH1WC 
